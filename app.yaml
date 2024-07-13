@@ -1,0 +1,6 @@
+domains:
+- python-http-server-cinemahub123.wasmer.app
+kind: wasmer.io/App.v0
+name: cinemahub856-python-http-server
+owner: cinemahub856
+package: .
